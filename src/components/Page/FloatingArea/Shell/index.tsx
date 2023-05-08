@@ -17,8 +17,7 @@ function ShellPS1() {
   return visible ? (
     <span
       className={`
-        fixed bottom-4 left-3 
-        flex flex-col 
+        flex flex-col w-full
         p-4 rounded bg-background 
         border-2 border-black2 font-term 
         hover:-translate-y-1 hover:scale-105
@@ -42,8 +41,6 @@ function ShellPS1() {
   ) : (
     <span
       className={`
-          fixed bottom-4 left-3
-          max-xl:bottom-1 max-xl:left-1
           w-24 h-24 z-50
           flex flex-col 
           items-center justify-center

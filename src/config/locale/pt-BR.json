@@ -25,12 +25,11 @@
     },
     "page": {
       "home": {
-        "contents": {
-          "profile": "Perfil",
-          "skills": "Skills",
-          "projects": "Projetos"
-        },
-        "description": "Graduando em Ciência da Computação pela UFV, Desenvolvedor Front-end Estagiário na Vetta, entusiasta de GNU/Linux e apaixonado por desenvolvimento Web"
+        "description": "Graduando em Ciência da Computação pela UFV, Desenvolvedor Front-end Trainee na Vetta, entusiasta de GNU/Linux e apaixonado por desenvolvimento Web",
+        "notification": {
+          "title": "Você já deu uma olhada na minha página pessoal?",
+          "label": "Acesse agora"
+        }
       },
       "404": {
         "title": "Ei! O que você está fazendo aqui?",

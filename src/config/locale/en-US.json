@@ -30,7 +30,11 @@
           "skills": "Skills",
           "projects": "Projects"
         },
-        "description": "CS Student at UFV, Intern Front-end Developer at Vetta, GNU/Linux enthusiast and passionate about Web development"
+        "description": "CS Student at UFV, Trainee Front-end Developer at Vetta, GNU/Linux enthusiast and passionate about Web development",
+        "notification": {
+          "title": "Have you checked my personal page yet?",
+          "label": "Check it now"
+        }
       },
       "404": {
         "title": "Hey! What are you doing here?",
