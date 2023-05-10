@@ -24,8 +24,8 @@ function FloatingArea({ disableShell, notifications }: FloatingAreaProps) {
     <span id="corner-area" 
       className={`
         fixed bottom-4 left-3 w-96
-        flex flex-col
-        gap-2
+        flex flex-col max-xl:pr-6
+        gap-2 max-xl:w-full
         transition-all
         z-50
       `}
