@@ -63,7 +63,7 @@ function Notification({ alwaysShow, title, icon, body, redirect }: NotificationD
               hover:text-red-600
               fa-solid fa-xmark
             `}
-            onClick={() => savePreference()}
+            onClick={() => setShow(false)}
           />
         </span>
 
